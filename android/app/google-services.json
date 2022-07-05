@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "6375363793",
+    "project_id": "loginmilanone",
+    "storage_bucket": "loginmilanone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6375363793:android:2d04ea6b4d2e6cbc1ca1f0",
+        "android_client_info": {
+          "package_name": "com.googleloginmilanone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6375363793-v1cfbg4lvcdcfmh06d7g3q1345crjkc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.googleloginmilanone",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "6375363793-ij0m25v1bi08v4c06j098ihtqgm38dfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7qnSBcDweONcVP2cnkct5cKYIaoYooIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6375363793-ij0m25v1bi08v4c06j098ihtqgm38dfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
